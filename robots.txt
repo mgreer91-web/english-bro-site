@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://mgreer91-web.github.io/english-bro-site/sitemap.xml
